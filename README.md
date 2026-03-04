@@ -2,6 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kushal%20%7C%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff"/>
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
