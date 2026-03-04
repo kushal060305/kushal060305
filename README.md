@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kushal</h1>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
-<!--
-**kushal060305/kushal060305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Open+Source+Learner;Problem+Solver"/>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Student
+- 🌱 Currently learning React & Node.js
+- 💡 Interested in AI and Web Development
+- 🚀 Building projects and improving coding skills
+
+- ## 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/kushal0603)  
+[Portfolio](https://github.com/kushal060305)  
+[Email](kushalausula@gmail.com)
+
+## 🛠 Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github"/>
+</p>
